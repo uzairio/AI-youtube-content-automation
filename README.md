@@ -15,5 +15,13 @@ This project automates the process of creating and uploading YouTube videos usin
 - Webhooks
 - YouTube API
 
+## Workflow preview
+![Workflow](Youtube Automation preview (n8n).png)
+
+## How to use
+1. Import `Youtube_automation.json` into n8n
+2. Connect your credentials
+3. Activate the workflow
+
 ## Status
 This project is a work in progress and is being improved step by step.
