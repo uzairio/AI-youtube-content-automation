@@ -16,7 +16,7 @@ This project automates the process of creating and uploading YouTube videos usin
 - YouTube API
 
 ## Workflow preview
-![Workflow]([Youtube Automation preview (n8n).png](https://github.com/uzairio/AI-youtube-content-automation/blob/main/Youtube%20Automation%20preview%20(n8n).png))
+![Workflow](https://github.com/uzairio/AI-youtube-content-automation/blob/main/Youtube%20Automation%20preview%20(n8n).png)
 
 ## How to use
 1. Import `Youtube_automation.json` into n8n
